@@ -1,0 +1,6 @@
+{
+  "name": "Project Coordinator - PMO Workspace",
+  "description": "AI-powered Project Management Office (PMO) Coordinator for high-velocity IT portfolios, daily orchestration, tasks, RAID tracking, and executive syncs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
